@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - A program to determine if a random number is positvie negative or zero
+ * main - To determine if a random number is positvie negative or zero
  *
  * Return: 0 on success
  */
