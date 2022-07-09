@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - To determine if the last digit of a random number is greateror less than 5
+ * main - To determine if the last digit of a random number is greater than 5
  *
  * Return: 0 on success
  */
@@ -20,7 +20,7 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	printf("%s %d is %d and is ", last, n, n % 10);
 
-	if (n % 10 > 5)		
+	if (n % 10 > 5)
 	{
 		printf("greater than 5\n");
 	}
