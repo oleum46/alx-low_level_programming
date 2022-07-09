@@ -5,8 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - To determine if the last digit of a random number is, 
- * greater than or less than 5 or is zero..
+ * main - To determine if the last digit of a random number is greateror less than 5
  *
  * Return: 0 on success
  */
