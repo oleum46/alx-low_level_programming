@@ -6,7 +6,7 @@
  * Return: 0 success
  */
 
-int main()
+int main(void)
 {
 	char c = 'a';
 	char f = 'A';
