@@ -19,7 +19,7 @@ int main()
 	while (f <= 'z')
 	{
 		putchar(f);
-		f++
+		f++;
 	}
 	putchar('\n');
 	return (0);
