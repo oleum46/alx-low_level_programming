@@ -3,7 +3,7 @@
 /**
  * main - prints alphabets in lowercase except q and e.
  *
- * Reason: 0 on success
+ * Return: 0 on success
  */
 
 int main(void)
