@@ -8,7 +8,7 @@
 int main(void)
 {
 	int a = '0';
-	int b = '1';
+	int b = '0';
 
 	while (a <= '9')
 	{
@@ -29,7 +29,7 @@ int main(void)
 		}
 		if (b >= '9')
 		{
-		b = '1';
+		b = '0';
 		}
 		a++;
 	}
