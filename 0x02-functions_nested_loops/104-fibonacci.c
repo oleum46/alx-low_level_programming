@@ -10,7 +10,7 @@ int main(void)
 {
 	int count;
 	unsigned long i, j, k;
-	unsigned long x, y, z carry;
+	unsigned long x, y, z, carry;
 
 	count = 0;
 	i = 0;
@@ -20,7 +20,7 @@ int main(void)
 		k = i + j;
 		i = j;
 		j = k;
-		printf("%lu, " k);
+		printf("%lu, ", k);
 	}
 	x = i % 1000;
 	i = i / 1000;
