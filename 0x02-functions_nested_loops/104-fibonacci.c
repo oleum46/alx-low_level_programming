@@ -1,4 +1,4 @@
-#include <stdiio.h>
+#include <stdio.h>
 
 /**
  * main - A program that finds and prints the first 98 Fibonacci numbers,
